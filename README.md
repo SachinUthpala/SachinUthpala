@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sachin Uthpala Gunasekara</h1>
 <h3 align="center">A Front-End and Back-End Developer</h3>
 
+<img align="right" alt="cording" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinuthpala&label=Profile%20views&color=0e75b6&style=flat" alt="sachinuthpala" /> </p>
+
+
 
 - 🔭 I’m currently working on [Hotel-Reservation](https://github.com/SachinUthpala/Hotel-Reservation)
 
 - 🌱 I’m currently learning **MURN and Android Developing**
 
-- 💬 Ask me about **MURN , HTML , CSS , JS , PYTHON**
+- 💬 Ask me about **MURN , HTML , CSS , JS , PYTHON , KOTLIN**
 
 - 📫 How to reach me **gunasekara.s.u.d.a@gmail.com**
 
@@ -27,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinuthpala&show_icons=true&locale=en" alt="sachinuthpala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinuthpala&" alt="sachinuthpala" /></p>
-
