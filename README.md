@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Uthpala Gunasekara</h1>
 <h3 align="center">A Front-End and Back-End Developer</h3>
 
-<img align="right" alt="cording" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media">
+<img align="right" alt="cording" width="400" src="./code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinuthpala&label=Profile%20views&color=0e75b6&style=flat" alt="sachinuthpala" /> </p>
