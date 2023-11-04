@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Uthpala Gunasekara</h1>
-<h3 align="center">A Front-End and Back-End Developer</h3>
+<h3 align="center" style="color:#00ff40">A Front-End and Back-End Developer</h3>
 
 <img align="right" alt="cording" width="400" src="./code.gif">
 
