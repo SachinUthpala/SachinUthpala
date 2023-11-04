@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachinuthpala" target="blank"><img src="https://img.shields.io/twitter/follow/sachinuthpala?logo=twitter&style=for-the-badge" alt="sachinuthpala" /></a> </p>
 
-- 🔭 I’m currently working on [Hotel-Reservation](https://github.com/SachinUthpala/Hotel-Reservation)
+- 🔭 I’m currently Studying on SLIIT University
 
 - 🌱 I’m currently learning **MURN and Android Developing**
 
