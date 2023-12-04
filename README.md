@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/sachingunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachingunasekara" height="30" width="40" /></a>
 <a href="https://fb.com/sachingunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachingunasekara" height="30" width="40" /></a>
 <a href="https://instagram.com/sachinuthpala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachinuthpala" height="30" width="40" /></a>
+<a href="[https://instagram.com/sachinuthpala](https://65621a7cfaa039420346ee87--keen-daifuku-efa192.netlify.app/)" target="blank"><img align="center" src="https://65621a7cfaa039420346ee87--keen-daifuku-efa192.netlify.app/person.png" alt="sachinuthpala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
