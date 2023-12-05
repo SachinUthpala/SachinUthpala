@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gunasekara.s.u.d.a@gmail.com**
 
-- 📫 Find me **[Sachin Gunasekara](https://65621a7cfaa039420346ee87--keen-daifuku-efa192.netlify.app/)**
+- 📫 Find me **[Sachin Gunasekara](https://sachinuthpala.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
