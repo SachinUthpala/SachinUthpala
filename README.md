@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studying on SLIIT University
 
-- 🌱 I’m currently learning **MURN and Android Developing**
+- 🌱 I’m currently learning **MERN and Android Developing**
 
 - 💬 Ask me about **MURN , HTML , CSS , JS , PYTHON , KOTLIN**
 
