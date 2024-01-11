@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinuthpala&label=Profile%20views&color=00ff40&style=flat" alt="sachinuthpala" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sachinuthpala" target="blank"><img src="https://img.shields.io/twitter/follow/sachinuthpala?logo=twitter&style=for-the-badge" alt="sachinuthpala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SachinUthpalaG" target="blank"><img src="https://img.shields.io/twitter/follow/SachinUthpalaG?logo=twitter&style=for-the-badge" alt="SachinUthpalaG" /></a> </p>
 
 - 🔭 I’m currently Studying on SLIIT University
 
