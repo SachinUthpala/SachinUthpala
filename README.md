@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN and Android Developing**
 
-- 💬 Ask me about **MURN , HTML , CSS , JS , PYTHON , KOTLIN**
+- 💬 Ask me about **MERN , HTML , CSS , JS , PYTHON , KOTLIN**
 
 - 📫 How to reach me **gunasekara.s.u.d.a@gmail.com**
 
