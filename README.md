@@ -17,7 +17,7 @@
 
 - 📫 Find me **[Sachin Gunasekara](https://sachinuthpala.netlify.app/)**
 
-<p align="left"> <a href="https://twitter.com/SachinUthpalaG" target="blank"><img src="https://img.shields.io/twitter/follow/SachinUthpalaG?logo=twitter&style=for-the-badge" alt="SachinUthpalaG" /></a> </p>
+<p align="left"> My Work Experience</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
