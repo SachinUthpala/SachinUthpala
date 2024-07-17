@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently Studying on SLIIT University
 
+- 💥 I'm currently Works at East Link Engineering
+
 - 🌱 I’m currently learning **MERN and Android Developing**
 
 - 💬 Ask me about **MERN , HTML , CSS , JS , PYTHON , KOTLIN**
