@@ -21,9 +21,11 @@
 
  <h3>Follow Me On Social Media</h3>
 
-  🔰 Facebook **[Sachin Gunasekara](https://www.facebook.com/sachin.gunasekare/)**
+  🔰 Facebook **[Sachin Gunasekara - Facebook](https://www.facebook.com/sachin.gunasekare/)**
 
-  🔰 Instergram **[Sachin Gunasekara](https://www.instagram.com/sachin_uthpala/?igsh=MWFsaW9rd25paHUxaA%3D%3D)**
+  🔰 Instergram **[Sachin Gunasekara - Instergram](https://www.instagram.com/sachin_uthpala/?igsh=MWFsaW9rd25paHUxaA%3D%3D)**
+
+  🔰 LinkdIn **[Sachin Gunasekara - LinkdIn](https://www.linkedin.com/in/sachin-uthpala-b98a21247/)**
 
 
 
